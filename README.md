@@ -21,19 +21,6 @@ Menu Buddy was built specifically to address these accessibility issues, empower
 - **Order Card Generation**: Create a digital order card to share with restaurant staff
 - **Accessibility-First Design**: Intuitive visual interface requiring no verbal communication
 
-## Screenshots
-### Main Menu Screen
-![Main Menu Screen](file:///Users/kanavnijhawan/Desktop/IMG_6828.PNG)
-*Scan a new menu or select from existing items*
-
-### Order Selection Screen
-![Menu Selection Screen](file:///Users/kanavnijhawan/Desktop/IMG_6828.PNG)
-*Select your desired menu items with a simple tap interface*
-
-### Order Summary Screen
-![Order Summary Screen](file:///Users/kanavnijhawan/Desktop/IMG_6829.PNG)
-*Review your order before confirming*
-
 ## How It Works
 
 1. **Scan Menu**: Use the "Scan Menu" button to capture a physical menu
